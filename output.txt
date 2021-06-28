@@ -1,0 +1,96 @@
+PID: 10968
+Name: Discord.exe
+Command: "C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\Discord.exe" 
+------------------------------------------------------------------------------------- 
+PID: 1940
+Name: Discord.exe
+Command: C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\Discord.exe --type=crashpad-handler --user-data-dir=C:\Users\DELL\AppData\Roaming\discord /prefetch:7 --no-rate-limit --no-upload-gzip --monitor-self-annotation=ptype=crashpad-handler --database=C:\Users\DELL\AppData\Roaming\discord\Crashpad --url=https://sentry.io/api/146342/minidump/?sentry_key=384ce4413de74fe0be270abe03b2b35a "--annotation=_companyName=Discord Inc." --annotation=_productName=Discord --annotation=_version=1.0.9002 --annotation=prod=Electron --annotation=ver=9.3.5 --initial-client-data=0x474,0x478,0x47c,0x448,0x480,0x5a44078,0x5a44088,0x5a44094
+------------------------------------------------------------------------------------- 
+PID: 11684
+Name: Discord.exe
+Command: "C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\Discord.exe" --type=gpu-process --field-trial-handle=1640,14956638698799423906,7043101110454778984,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --mojo-platform-channel-handle=1672 /prefetch:2
+------------------------------------------------------------------------------------- 
+PID: 8768
+Name: Discord.exe
+Command: "C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\Discord.exe" --type=utility --field-trial-handle=1640,14956638698799423906,7043101110454778984,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-GB --service-sandbox-type=network --mojo-platform-channel-handle=2084 /prefetch:8
+------------------------------------------------------------------------------------- 
+PID: 12020
+Name: Discord.exe
+Command: "C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\Discord.exe" --type=renderer --autoplay-policy=no-user-gesture-required --field-trial-handle=1640,14956638698799423906,7043101110454778984,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-GB --app-user-model-id=com.squirrel.Discord.Discord --app-path="C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\resources\app.asar" --no-sandbox --no-zygote --native-window-open --preload="C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\modules\discord_desktop_core-2\discord_desktop_core\core.asar\app\mainScreenPreload.js" --context-isolation --background-color=#202225 --enable-spellcheck --enable-websql --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --mojo-platform-channel-handle=3244 /prefetch:1 --enable-node-leakage-in-renderers
+------------------------------------------------------------------------------------- 
+PID: 4380
+Name: Discord.exe
+Command: "C:\Users\DELL\AppData\Local\Discord\app-1.0.9002\Discord.exe" --type=utility --field-trial-handle=1640,14956638698799423906,7043101110454778984,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-GB --service-sandbox-type=audio --mojo-platform-channel-handle=3552 /prefetch:8
+------------------------------------------------------------------------------------- 
+PID: 8592
+Name: devenv.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe" 
+------------------------------------------------------------------------------------- 
+PID: 7720
+Name: PerfWatson2.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe" -p 8592 -version 16 -role 3 {%22IsOptedIn%22:true,%22HostName%22:%22Dev14%22,%22AppInsightsInstrumentationKey%22:%22f144292e-e3b2-4011-ac90-20e5c03fbce5%22,%22AsimovInstrumentationKey%22:%22AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70%22,%22AppId%22:1001,%22UserId%22:%225f1cbe27-95b0-44bd-befc-90e4a0df957c%22,%22Id%22:%22020ff851-2636-4193-b1e4-59a95c192a4f%22,%22ProcessStartTime%22:637604359995224157}
+------------------------------------------------------------------------------------- 
+PID: 8492
+Name: ServiceHub.IdentityHost.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe" "desktopClr.x86$IdentityHost" "net.pipe://104328343CE11B738FE17AF2410F07A10DDB2" "/TelemetrySession:{"""IsOptedIn""":true,"""HostName""":"""Dev14""","""AppInsightsInstrumentationKey""":"""f144292e-e3b2-4011-ac90-20e5c03fbce5""","""AsimovInstrumentationKey""":"""AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70""","""AppId""":1001,"""UserId""":"""5f1cbe27-95b0-44bd-befc-90e4a0df957c""","""Id""":"""020ff851-2636-4193-b1e4-59a95c192a4f""","""ProcessStartTime""":637604359995224157}"
+------------------------------------------------------------------------------------- 
+PID: 8508
+Name: ServiceHub.VSDetouredHost.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe" "desktopClr.x86$VSDetouredHost" "net.pipe://104328343CE11B738FE17AF2410F07A10DDB2" "/TelemetrySession:{"""IsOptedIn""":true,"""HostName""":"""Dev14""","""AppInsightsInstrumentationKey""":"""f144292e-e3b2-4011-ac90-20e5c03fbce5""","""AsimovInstrumentationKey""":"""AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70""","""AppId""":1001,"""UserId""":"""5f1cbe27-95b0-44bd-befc-90e4a0df957c""","""Id""":"""020ff851-2636-4193-b1e4-59a95c192a4f""","""ProcessStartTime""":637604359995224157}"
+------------------------------------------------------------------------------------- 
+PID: 852
+Name: ServiceHub.SettingsHost.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe" "desktopClr.x86$SettingsHost" "net.pipe://104328343CE11B738FE17AF2410F07A10DDB2" "/TelemetrySession:{"""IsOptedIn""":true,"""HostName""":"""Dev14""","""AppInsightsInstrumentationKey""":"""f144292e-e3b2-4011-ac90-20e5c03fbce5""","""AsimovInstrumentationKey""":"""AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70""","""AppId""":1001,"""UserId""":"""5f1cbe27-95b0-44bd-befc-90e4a0df957c""","""Id""":"""020ff851-2636-4193-b1e4-59a95c192a4f""","""ProcessStartTime""":637604359995224157}"
+------------------------------------------------------------------------------------- 
+PID: 12544
+Name: ServiceHub.Host.CLR.x86.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe" "desktopClr.x86$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE" "net.pipe://104328343CE11B738FE17AF2410F07A10DDB2" "/TelemetrySession:{"""IsOptedIn""":true,"""HostName""":"""Dev14""","""AppInsightsInstrumentationKey""":"""f144292e-e3b2-4011-ac90-20e5c03fbce5""","""AsimovInstrumentationKey""":"""AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70""","""AppId""":1001,"""UserId""":"""5f1cbe27-95b0-44bd-befc-90e4a0df957c""","""Id""":"""020ff851-2636-4193-b1e4-59a95c192a4f""","""ProcessStartTime""":637604359995224157}"
+------------------------------------------------------------------------------------- 
+PID: 11144
+Name: ServiceHub.ThreadedWaitDialog.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe" "desktopClr.x86$ThreadedWaitDialog" "net.pipe://104328343CE11B738FE17AF2410F07A10DDB2" "/TelemetrySession:{"""IsOptedIn""":true,"""HostName""":"""Dev14""","""AppInsightsInstrumentationKey""":"""f144292e-e3b2-4011-ac90-20e5c03fbce5""","""AsimovInstrumentationKey""":"""AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70""","""AppId""":1001,"""UserId""":"""5f1cbe27-95b0-44bd-befc-90e4a0df957c""","""Id""":"""020ff851-2636-4193-b1e4-59a95c192a4f""","""ProcessStartTime""":637604359995224157}"
+------------------------------------------------------------------------------------- 
+PID: 1040
+Name: VCPkgSrv.exe
+Command: -s {22C553A6-0523-40F0-AC8D-EDB1AC67C4A8} -p 8592 -i TagParser -r "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\common7\ide\VSReliability.dll"
+------------------------------------------------------------------------------------- 
+PID: 3156
+Name: ServiceHub.Host.CLR.x86.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe" "desktopClr.x86$CodeLensService$$8592" "net.pipe://104328343CE11B738FE17AF2410F07A10DDB2" "/TelemetrySession:{"""IsOptedIn""":true,"""HostName""":"""Dev14""","""AppInsightsInstrumentationKey""":"""f144292e-e3b2-4011-ac90-20e5c03fbce5""","""AsimovInstrumentationKey""":"""AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70""","""AppId""":1001,"""UserId""":"""5f1cbe27-95b0-44bd-befc-90e4a0df957c""","""Id""":"""020ff851-2636-4193-b1e4-59a95c192a4f""","""ProcessStartTime""":637604359995224157}"
+------------------------------------------------------------------------------------- 
+PID: 4724
+Name: wpscenter.exe
+Command: "C:\Users\DELL\AppData\Local\Kingsoft\WPS Office\11.2.0.10176\office6/wpscenter.exe" Run -Entry=EntryPoint "C:\Users\DELL\AppData\Roaming\Kingsoft/wps/addons/pool/win-i386/kwpsfilemonitor_1.1.2019.82/kwpsfilemonitor.dll"
+------------------------------------------------------------------------------------- 
+PID: 10908
+Name: MSBuild.exe
+Command: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe /nologo /nodemode:1 /nodeReuse:true /low:false
+------------------------------------------------------------------------------------- 
+PID: 4236
+Name: VCPkgSrv.exe
+Command: -q -s {016ACD11-30D6-4CBE-A5B7-CD65036B909F} -p 8592 -i IntelliSense -r "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\common7\ide\VSReliability.dll"
+------------------------------------------------------------------------------------- 
+PID: 8824
+Name: wpscloudsvr.exe
+Command: "C:\Users\DELL\AppData\Local\Kingsoft\WPS Office\11.2.0.10176\office6\wpscloudsvr.exe" /wpscloudlaunch /run_plugin /plugin_name=ktaskschdtool /plugin_entry=ktaskschdtool.dll /task=wpsexternal /launchtask /ver=1.0 /start_from=task_external
+------------------------------------------------------------------------------------- 
+PID: 13636
+Name: wpscenter.exe
+Command: "C:\Users\DELL\AppData\Local\Kingsoft\WPS Office\11.2.0.10176\office6/wpscenter.exe" Run -Entry=EntryPoint "C:\Users\DELL\AppData\Local\Kingsoft\WPS Office\11.2.0.10176\office6/rubyenv.dll" "C:\Users\DELL\AppData\Roaming\Kingsoft/wps/addons/pool/win-i386/kbubble_1.1.2019.12/krbubble_entry.rb"
+------------------------------------------------------------------------------------- 
+PID: 15028
+Name: VCTIP.EXE
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\VCTIP.EXE"
+------------------------------------------------------------------------------------- 
+PID: 3292
+Name: mspdbsrv.exe
+Command: mspdbsrv.exe -start -spawn
+------------------------------------------------------------------------------------- 
+PID: 14344
+Name: VsDebugConsole.exe
+Command: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe" \\.\pipe\Microsoft-VisualStudio-Debug-Console-8592 Local\{6A798449-7690-4BCE-A6E6-05EDE81E1553}
+------------------------------------------------------------------------------------- 
+PID: 12096
+Name: ProcessViewer.exe
+Command: "D:\Training_Windows_API\ProcessViewer\Debug\ProcessViewer.exe" 
+------------------------------------------------------------------------------------- 
